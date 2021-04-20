@@ -1,6 +1,6 @@
 let meteo = prompt("Entrez le type de météo")
 
-switch (meteo)) {
+switch (meteo) {
     case "nuageux":
         console.log("Il fait semi moche");
         break;
